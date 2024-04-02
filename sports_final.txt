@@ -1,0 +1,22 @@
+हॉकी : hockey
+खेल : sports
+भारत : Bharat, India
+विजय : won
+स्वर्ण : gold
+ओलम्पिक : olympic
+मैच : match
+गोल : goal
+पदक : medal
+रिकॉर्ड : record
+खिलाड़ी : player
+ध्यानचंद : dhyanchand
+संघ : association
+प्रतियोगिता : tournament
+टीम : team
+कप्तानी : captain
+विश्व कप : world cup
+रजत : silver
+कांस्य : bronze
+वैश्विक : global
+संबद्धता : affiliation
+अंतराष्ट्रीय : internation
